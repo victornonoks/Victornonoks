@@ -4,8 +4,8 @@
 - 🤔 Estou em busca de evoluir e aprender novas linguagens
 - 📫 Contate-me no e-mail: victornksdev@gmail.com
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornonoks&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornonoks&theme=dracula&layout=compact&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornonoks&show_icons=true&theme=dracula)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornonoks&layout=compact&theme=dracula)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://instagram.com/victor_nonoks" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  <a href = "mailto:victornksdev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
