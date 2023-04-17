@@ -1,7 +1,7 @@
 ## Olá! Me chamo Victor Martines!
 
 - 🌱 Atualmente estuando Python
-- 🤔 Estou em busca de empregos na área
+- 🤔 Estou em busca de evoluir e aprender novas linguagens
 - 📫 Contate-me no e-mail: victornksdev@gmail.com
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornonoks&theme=dracula&show_icons=true)
