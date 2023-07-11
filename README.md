@@ -3,7 +3,7 @@
 - 🌱 Atualmente estuando Python
 - 🤔 Estou em busca de evoluir e aprender novas linguagens
 - 📫 Contate-me no e-mail: victornksdev@gmail.com
-
+- 🎉 19 Anos
 
 <!-- ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=victornonoks&show_icons=true&theme=transparent) -->
 <!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=victornonoks&layout=compact&theme=transparent)](https://github.com/anuraghazra/github-readme-stats) -->
