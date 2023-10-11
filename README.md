@@ -1,6 +1,6 @@
 ## Olá! Me chamo Victor Martines!
 
-- 🌱 Atualmente estuando Python
+- 🌱 Atualmente estuando Python e JavaScript
 - 🤔 Estou em busca de evoluir e aprender novas linguagens
 - 📫 Contate-me no e-mail: victornksdev@gmail.com
 - 🎉 19 Anos
